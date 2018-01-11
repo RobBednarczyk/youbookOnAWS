@@ -3,6 +3,7 @@
 
 # Parameters
 - IP: 54.76.129.180
+- SSH Port: 2200
 - Complete URL: http://ec2-54-76-129-180.eu-west-1.compute.amazonaws.com
 
 # Used software/libraries
